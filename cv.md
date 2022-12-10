@@ -1,7 +1,7 @@
 # Boris Budenshtein
 
 
-* __My contacts:__
+## My contacts:
 
  1. **e-mail:** borisbudenshtein@gmail.com
  2. **Phone number(Turkish):** +90 534 408-15-70
@@ -9,10 +9,10 @@
  4. **Discord:** RaRasputin#1457
 
 
-* __Location:__ Istanbul, Turkey
+### Location: Istanbul, Turkey
 
 
-* __About myself__
+## About myself
 
 Hello world! My name is Boris. I am 20 years old and I study on the 2^nd course in [Saint Petersburg State Chemical and Pharmaceutical University](https://spcpu.ru/english/) in Russia. My Bachelor's degree programm is called "Chemical Tecnology of finished medicinal substances".
 
@@ -20,23 +20,23 @@ Hello world! My name is Boris. I am 20 years old and I study on the 2^nd course 
 At the end of September 2022 I decided to take a gap year and relocate to Istanbul where I started "JavaScript/Front-End" course in RollingScopes School.
 
 
- * __Skills__
+ ## Skills
 
- *CSS
+ * __CSS__
 
- *HTML
+ * __HTML__
 
- *JavaScript Basics
+ * __JavaScript Basics__
 
- *Git
+ * __Git__
 
- *Microsoft Office
+ * __Microsoft Office__
 
 
- * __Languages__
+ ## Languages
 
- *Native Russian 
+ * __Native Russian__ 
 
- *English B1 Intermediate/B2 Upper Intermediate [EnglishFirst Online test](https://www.efset.org/quick-check/take-test/#set15-190/result)
+ * __English B1 Intermediate/B2 Upper Intermediate [EnglishFirst Online test](https://www.efset.org/quick-check/take-test/#set15-190/result)__
 
- *Germany - A2.2 (Goethe Institute Certificate)
+ * __Germany - A2.2 (Goethe Institute Certificate)__
