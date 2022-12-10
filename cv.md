@@ -19,9 +19,7 @@ Hello world! My name is Boris. I am 20 years old and I study on the 2^nd course 
 
 At the end of September 2022 I decided to take a gap year and relocate to Istanbul where I started "JavaScript/Front-End" course in RollingScopes School.
 
-
- ## Skills
-
+## Skills
 
  * __CSS__
 
@@ -34,8 +32,7 @@ At the end of September 2022 I decided to take a gap year and relocate to Istanb
  * __Microsoft Office__
 
 
- ## Languages
-
+## Languages
 
  * __Native Russian__ 
 
