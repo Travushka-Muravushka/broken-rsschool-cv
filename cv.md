@@ -22,6 +22,7 @@ At the end of September 2022 I decided to take a gap year and relocate to Istanb
 
  ## Skills
 
+
  * __CSS__
 
  * __HTML__
@@ -34,6 +35,7 @@ At the end of September 2022 I decided to take a gap year and relocate to Istanb
 
 
  ## Languages
+
 
  * __Native Russian__ 
 
