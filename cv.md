@@ -22,20 +22,14 @@ At the end of September 2022 I decided to take a gap year and relocate to Istanb
 ## Skills
 
  * __CSS__
-
  * __HTML__
-
  * __JavaScript Basics__
-
  * __Git__
-
  * __Microsoft Office__
 
 
 ## Languages
 
  * __Russian - Native__ 
-
  * __English - B1 Intermediate/B2 Upper Intermediate [EnglishFirst Online test](https://www.efset.org/quick-check/take-test/#set15-190/result)__
-
  * __Germany - A2.2 (Goethe Institute Certificate)__
